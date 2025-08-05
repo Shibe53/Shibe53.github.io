@@ -30,8 +30,8 @@
 
 <script lang="ts">
 import Vue from "vue";
-import ProjectDetailsOverlay from "@/components/ProjectDetailsOverlay.vue";
-import ProjectData from "@/data/ProjectData.ts";
+import ProjectDetailsOverlay from "./ProjectDetailsOverlay.vue";
+import ProjectData from "../data/ProjectData.ts";
 
 export default Vue.extend({
   name: "ProjectsList",

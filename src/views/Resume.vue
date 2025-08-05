@@ -14,8 +14,7 @@
       <br />Besides war, I'm passionate about firearms, martial arts, explosions, push-ups and flowers.
 
       <div style="margin-top:20px; margin-bottom:20px;">
-        <a class="download-link" href="d/resume-en.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Download as PDF 🇬🇧</a>
-        <a class="download-link" href="d/cv-fr.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Télécharger en PDF 🇫🇷</a>
+        <a class="download-link" href="d/resume-en.pdf" target="_blank"><i class="fa fa-download fa-lg fa-fw"></i> Download as PDF</a>
         <div style="clear:both"></div>
       </div>
     </div>
@@ -28,76 +27,91 @@
     <div class="full-content">
       <h2>Work experience</h2>
 
-      <h3>Operation Classified - Delta Force</h3>
-      <h4>2018-2019</h4>
+      <h3>Computer Operator<span class="company-name"> · Inside Media SRL</span></h3>
+      <h4>Aug 2022 - Sep 2022</h4>
 
-      <div>It's classified so I can't speak about it.</div>
+      <div>• Inserted and processed data into Word and Excel documents</div>
+      <div>• Worked with printers, plotters, heat presses, and cutters</div>
+      <div>• Assisted coworkers with operating customisation machinery for designing a multitude of items, such as shirts, bags, hats and more</div>
 
-      <div class="tech-stack">Firearms, knives, grenades, Hummer vehicle, parachute,...</div>
-
-      <h3>Operation Classified - Delta Force</h3>
-      <h4>2015-2017</h4>
-
-      <div>It's classified so I can't speak about it.</div>
-
-      <div class="tech-stack">Even more Firearms, knives, grenades, Hummer vehicle, parachute,...</div>
-
-      <h3>Operation Classified - Delta Force</h3>
-      <h4>2012-2015</h4>
-
-      <div>It's classified so I can't speak about it.</div>
-
-      <div class="tech-stack">Firearms, knives, grenades, Hummer vehicle, parachute,...</div>
+      <div class="tech-stack">Microsoft Office, Teamwork, Communication</div>
 
       <h2>Skills</h2>
 
       <div class="skill-set">
-        <h3>Lethal</h3>
-        <SkillRate name="Handguns" :rate="5" />
-        <SkillRate name="Rifles" :rate="5" />
-        <SkillRate name="Shotguns" :rate="5" />
-        <SkillRate name="Machineguns" :rate="5" />
-        <SkillRate name="Missile launchers" :rate="5" />
-        <SkillRate name="Knives" :rate="5" />
-        <SkillRate name="Hand to hand combat" :rate="5" />
+        <h3>Languages</h3>
+        <div class="skill">SQL</div>
+        <div class="skill">SQL</div>
+        <div class="skill">SQL</div>
+        <div class="skill">SQL</div>
+        <div style="clear:both" />
       </div>
 
       <div class="skill-set">
-        <h3>Non-lethal</h3>
-        <SkillRate name="Sneaking" :rate="1" />
-        <SkillRate name="Negotiation" :rate="1" />
-        <SkillRate name="Seduction" :rate="1" />
-        <SkillRate name="Sense of humor" :rate="2" />
+        <h3>Game Dev</h3>
+        <div class="skill">SQL</div>
+        <div class="skill">SQL</div>
+        <div class="skill">SQL</div>
+        <div class="skill">SQL</div>
+        <div style="clear:both" />
+      </div>
+
+      <div class="skill-set">
+        <h3>Tools & Frameworks</h3>
+        <div class="skill">SQL</div>
+        <div class="skill">SQL</div>
+        <div class="skill">SQL</div>
+        <div class="skill">SQL</div>
+        <div style="clear:both" />
+      </div>
+
+      <div class="skill-set">
+        <h3>Other Software</h3>
+        <div class="skill">SQL</div>
+        <div class="skill">SQL</div>
+        <div class="skill">SQL</div>
+        <div class="skill">SQL</div>
+        <div style="clear:both" />
       </div>
       <div style="clear:both" />
 
       <h2>Education</h2>
 
-      <h3>Kindergarten - 1985</h3>
-      <h4>Kindergarten degree</h4>
-      <div>Specialty in bullying and fighting (58 wins, 58 K-O, 0 losses)</div>
+      <h3>TU Eindhoven - Present</h3>
+      <h4>BSc Computer Science and Engineering</h4>
+      <div><b>Relevant courses:</b> Design for Games & Play I, II, and III, Data Structures, Algorithms, Algorithms Engineering, Heuristic Algorithms</div>
+
+      <h3>TU/e Honors Academy - Present</h3>
+      <h4>Competitive Programming and Problem Solving Track</h4>
+      <div>• Selected for TU Eindhoven's Honors Academy (Top 10% of Bachelor students) and finished the 1st year with a "Good" result</div>
+      <div>• Researched the topic of impartial game theory, presented my research in a seminar, and wrote a paper on its applications</div>
 
       <h2>Languages</h2>
 
-      <h3>American</h3>
-      <div>Basic knowledge but I know lots of one-liners</div>
+      <h3>Romanian</h3>
+      <div>Mother tongue</div>
 
-      <h3>That's it</h3>
-      <div>Who needs another language when you speak American?</div>
+      <h3>English</h3>
+      <div>Fluent speaker (C2)</div>
 
+      <h3>Dutch</h3>
+      <div>In the process of learning and practicing... (A1)</div>
+
+      <h3>French</h3>
+      <div>Learned as part of middle and high school (~A2)</div>
 
       <h2>Besides...</h2>
       <div>
-        <h3>I ❤️ Violence</h3>
+        <h3>I ❤️ Video Games</h3>
         <div>I find it really soothing to just shoot at bad guys</div>
 
-        <h3>I 🧡 Sports</h3>
+        <h3>I 🧡 Board Games</h3>
         <div>I used to be thin but then I ingested 10 kilos of steroids and proteins a day while doing 1000 push-ups.</div>
 
-        <h3>I 💛 Politics</h3>
+        <h3>I 💛 Storytelling</h3>
         <div>I hope I can have a career here someday but I might have temper issues.</div>
 
-        <h3>I 💚 Flowers</h3>
+        <h3>I 💚 Animals</h3>
         <div>Especially the big ones, with the trunk and leaves.</div>
 
       </div>
@@ -107,12 +121,12 @@
 
 <script lang="ts">
 import Vue from "vue";
-import SkillRate from "@/components/SkillRate.vue";
+import SkillRate from "../components/SkillRate.vue";
 
 export default Vue.extend({
   name: "Resume",
   components: {
-    SkillRate,
+    //SkillRate,
   },
 });
 </script>
@@ -141,6 +155,10 @@ h4 {
   font-style: italic;
 }
 
+.company-name {
+  opacity: 0.5;
+}
+
 .paragraph {
   max-width: 700px;
 }
@@ -154,8 +172,21 @@ h4 {
   max-width: 800px;
 }
 
+.skill-set {
+  float: left;
+  padding-right: 30px;
+  max-width: 230px !important;
+}
+
 .skill-set h3 {
   padding-bottom: 10px;
+}
+
+.skill {
+    float: left;
+    border: 1px solid hsla(0,0%,86.3%,.44);
+    padding: 2px 10px;
+    margin: 5px
 }
 
 .photo img {
